@@ -43,7 +43,7 @@ An automated procedure is explained [here](http://pihw.wordpress.com/guides/dire
       cat /boot/cmdline.txt
       ```
 4. Save it as e.g. switchip.sh and making it executable ``chmod +x switchip.sh``
-5. Execute by typing sudo ``./switchip.sh`` and reboot.
+5. Execute by typing ``sudo ./switchip.sh`` and reboot.
 
 ### Mulitple wifi-networks
 [Adapted from this page](http://www.instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks/)
