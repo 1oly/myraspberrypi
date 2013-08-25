@@ -3,6 +3,9 @@ myraspberrypi
 
 Code snippets and useful commands
 
+### Tutorials
+http://elinux.org/RPi_Tutorials
+
 ### Mulitple wifi-networks
 [Adapted from this page](http://www.instantsupportsite.com/self-help/raspberry-pi/raspberry-connect-multiple-wireless-networks/)
 
