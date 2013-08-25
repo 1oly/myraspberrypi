@@ -10,7 +10,7 @@ http://elinux.org/RPi_Tutorials
 [Adapted from this page](http://pihw.wordpress.com/guides/direct-network-connection/)
 
 1. Connect Raspberry Pi to computer via Ethernet. In network settings find IP Address (e.g. ``169.254.XXX.XXX``)
-2. Add a self-chosen IP Address to ``/boot/cmdline.txt`` by appending ``ip=169.254.42.42`` at the end of the line.
+2. Add a self-chosen IP Address to ``/boot/cmdline.txt`` by appending e.g. ``ip=169.254.42.42`` at the end of the line.
 3. Reboot and access the Raspberry Pi via ssh: ``ssh 169.254.42.42 -l pi``
 
 An automated procedure is explained [here](http://pihw.wordpress.com/guides/direct-network-connection/) but the outline is as follow
