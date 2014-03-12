@@ -77,3 +77,6 @@ An automated procedure is explained [here](http://pihw.wordpress.com/guides/dire
       }
       ```
 5. Save and restart wifi-connection
+
+### Set-up AirPlay receiver:
+[Follow these intructions](http://www.raywenderlich.com/44918/raspberry-pi-airplay-tutorial)
