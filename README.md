@@ -80,3 +80,4 @@ An automated procedure is explained [here](http://pihw.wordpress.com/guides/dire
 
 ### Set-up AirPlay receiver:
 [Follow these intructions](http://www.raywenderlich.com/44918/raspberry-pi-airplay-tutorial)
+and [this](http://audioplastic.org/blog/2013/01/10/AP1/) to get high fidelity with external usb soundcard.
